@@ -10,7 +10,7 @@
                 <element label="Choice 3" sequence="2" value="test3"/>
             </choice>
         </element>
-        <element label="Number" max_length="100" name="number" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();&#13;&#10; &#13;&#10; &#13;&#10;" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Number" max_length="100" name="number" type="string" use_dynamic_default="true"/>
         <element label="Short_description" max_length="125" name="short_description" type="string"/>
     </element>
 </database>
