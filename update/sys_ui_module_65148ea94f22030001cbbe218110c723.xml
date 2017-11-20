@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test_01">61148ea94f22030001cbbe218110c721</application>
+        <filter/>
+        <name>test_01s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_130459_test.test_01_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-20 10:18:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>65148ea94f22030001cbbe218110c723</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_01s</sys_name>
+        <sys_package display_value="TEST" source="x_130459_test">7ec38e614f22030001cbbe218110c74d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TEST">7ec38e614f22030001cbbe218110c74d</sys_scope>
+        <sys_update_name>sys_ui_module_65148ea94f22030001cbbe218110c723</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-20 10:18:49</sys_updated_on>
+        <table>x_130459_test_test_01</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

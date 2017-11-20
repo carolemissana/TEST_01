@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="short_description" label="Short_description" language="en" table="x_130459_test_test_01">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <help/>
+            <hint/>
+            <label>Short_description</label>
+            <language>en</language>
+            <name>x_130459_test_test_01</name>
+            <plural>Short_descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-20 10:38:21</sys_created_on>
+            <sys_id>b3884e6d4f22030001cbbe218110c76e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short_description</sys_name>
+            <sys_package display_value="TEST" source="x_130459_test">7ec38e614f22030001cbbe218110c74d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TEST">7ec38e614f22030001cbbe218110c74d</sys_scope>
+            <sys_update_name>sys_documentation_x_130459_test_test_01_short_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-20 10:38:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

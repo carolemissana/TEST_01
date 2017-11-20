@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="test_01" max_length="40" name="x_130459_test_test_01" type="collection">
+        <element label="description" max_length="1000" name="description" type="string"/>
+        <element label="Idea_implemented" max_length="40" name="idea_implemented" type="boolean"/>
+        <element choice="1" label="Idea_type" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element label="Choice 1" sequence="0" value="test1"/>
+                <element label="Choice 2" sequence="1" value="test2"/>
+                <element label="Choice 3" sequence="2" value="test3"/>
+            </choice>
+        </element>
+        <element label="Number" max_length="100" name="number" type="string"/>
+        <element label="Short_description" max_length="125" name="short_description" type="string"/>
+    </element>
+</database>
